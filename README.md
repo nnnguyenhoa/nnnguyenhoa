@@ -2,8 +2,7 @@
 = I'm currently looking for opportunities in Software Development!  
 = I'm a University of California, Santa Cruz (UCSC) alumni  
 = I double majored in Computer Science and Linguistics  
-= I love problem solving and learning new technologies  
-= I run a blog I built and maintained myself: https://hoanguyen.dev 
+= I'm passionate about learning
 
 <!--
 **nnnguyenhoa/nnnguyenhoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
